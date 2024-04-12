@@ -1,7 +1,7 @@
 # Welcome to Thin Air!
 
 <p>
-    <img src="readme.assets/github.banner.png">
+    <img src="./readme.assets/github.banner.png">
 </P>
 
 
